@@ -1,3 +1,9 @@
+import {defineConfig} from 'vite'
+
+
+export default defineConfig({
+	plugins: []	
+})
 
 export default {
 	server: {
@@ -5,9 +11,3 @@ export default {
 		port: 3000, // Change the port if necessary
 	},
 }
-import {defineConfig} from 'vite'
-
-
-export default defineConfig({
-	plugins: []	
-})
