@@ -1,8 +1,8 @@
 {
   "name": "project",
-  "dependencies": {},
+  "type": "module",
   "devDependencies": {
-    "vite": "latest"
+    "vite": "^5.1.1"
   },
   "scripts": {
     "start": "vite",
