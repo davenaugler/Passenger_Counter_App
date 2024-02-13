@@ -8,6 +8,6 @@ export default defineConfig({
 export default {
 	server: {
 		host: '0.0.0.0',
-		port: 3000, // Change the port if necessary
+		port: 5173, // Change the port if necessary
 	},
 }
